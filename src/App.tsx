@@ -7,7 +7,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1></h1>
+      <h1>what skill would you like to focus on?</h1>
+      <div>
+        
+      </div>
     </div>
   );
 }
